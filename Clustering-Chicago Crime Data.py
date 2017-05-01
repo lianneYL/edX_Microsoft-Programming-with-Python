@@ -1,5 +1,5 @@
 # Module5
-# Clustering - Assignment 1 
+# Clustering - Chicago crime data
 
 
 from sklearn.cluster import KMeans
