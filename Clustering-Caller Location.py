@@ -1,6 +1,5 @@
 # Module5 
-# Clustering - Assignment 2
-# Find the caller's location
+# Clustering - Find the caller's location
 
 
 from sklearn.cluster import KMeans
