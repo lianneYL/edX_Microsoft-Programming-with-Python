@@ -1,5 +1,4 @@
-# Lab KNN
-# Assignment5
+# Classification of Wheat using KNN
 
 
 import numpy as np
